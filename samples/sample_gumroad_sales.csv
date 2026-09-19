@@ -1,0 +1,13 @@
+sale_id,sale_date,product_name,product_permalink,buyer_email,quantity,price_cents,gumroad_fee_cents,tax_cents,shipping_cents,amount_refunded_cents,net_cents,currency,sale_type,is_recurring,refunded,chargebacked,country,offer_code
+GUM-1001,2026-01-08,Notion Freelancer CRM,notion-freelancer-crm,buyer1@example.com,1,2900,261,0,0,0,2639,usd,product,false,false,false,US,
+GUM-1002,2026-01-15,Weekly Review OS,weekly-review-os,buyer2@example.com,1,900,99,0,0,0,801,usd,product,false,false,false,US,LAUNCH10
+GUM-1003,2026-02-03,Notion Freelancer CRM,notion-freelancer-crm,buyer3@example.com,1,2900,261,0,0,0,2639,usd,product,false,false,false,CA,
+GUM-1004,2026-02-14,Creator Tip Jar,tip-jar,fan@example.com,1,500,55,0,0,0,445,usd,tip,false,false,false,US,
+GUM-1005,2026-03-01,Ops Template Pack Annual,ops-pack-annual,buyer4@example.com,1,9900,891,0,0,0,9009,usd,membership,true,false,false,US,
+GUM-1006,2026-03-12,Weekly Review OS,weekly-review-os,buyer5@example.com,1,900,99,0,0,900,0,usd,product,false,true,false,US,
+GUM-1007,2026-04-02,Client Ops Kit,client-ops-kit,buyer6@example.com,1,2900,261,0,0,0,2639,usd,product,false,false,false,GB,
+GUM-1008,2026-04-18,Notion Freelancer CRM,notion-freelancer-crm,buyer7@example.com,1,2900,261,0,0,0,2639,usd,product,false,false,false,US,
+GUM-1009,2026-05-05,Rate Raise Kit,rate-raise-kit,buyer8@example.com,1,1900,180,0,0,0,1720,usd,product,false,false,false,US,
+GUM-1010,2026-05-22,Creator Tip Jar,tip-jar,fan2@example.com,1,1000,100,0,0,0,900,usd,tip,false,false,false,US,
+GUM-1011,2026-06-10,Ops Template Pack Annual,ops-pack-annual,buyer9@example.com,1,9900,891,0,0,0,9009,usd,membership,true,false,false,AU,
+GUM-1012,2026-06-28,Client Ops Kit,client-ops-kit,buyer10@example.com,1,2900,261,0,0,0,2639,usd,product,false,false,true,US,

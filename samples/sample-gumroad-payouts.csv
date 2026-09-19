@@ -1,0 +1,11 @@
+date,sale_id,product_name,buyer_email_hash,gross_usd,fee_usd,net_usd,refund_usd,currency,payout_id,notes
+2026-07-03,G-1001,Solo Freelancer Cashflow Kit,a1b2c3,19.00,2.19,16.81,0.00,USD,PO-G-07,sample
+2026-07-08,G-1002,Solo Freelancer Cashflow Kit,d4e5f6,19.00,2.19,16.81,0.00,USD,PO-G-07,sample
+2026-07-15,G-1003,Invoice Reminder Pack,g7h8i9,12.00,1.50,10.50,0.00,USD,PO-G-07,sample
+2026-08-02,G-1004,Solo Freelancer Cashflow Kit,j0k1l2,19.00,2.19,16.81,0.00,USD,PO-G-08,sample
+2026-08-11,G-1005,Finance Starter Bundle,m3n4o5,27.00,2.97,24.03,0.00,USD,PO-G-08,sample
+2026-08-20,G-1006,Solo Freelancer Cashflow Kit,p6q7r8,19.00,2.19,0.00,19.00,USD,PO-G-08,full refund sample
+2026-09-01,G-1007,Seller Ledger Early Access,s9t0u1,19.00,2.19,16.81,0.00,USD,PO-G-09,sample
+2026-09-09,G-1008,Solo Freelancer Cashflow Kit,v2w3x4,24.00,2.64,21.36,0.00,USD,PO-G-09,price test
+2026-09-14,G-1009,Invoice Reminder Pack,y5z6a7,12.00,1.50,10.50,0.00,USD,PO-G-09,sample
+2026-09-16,G-1010,Finance Starter Bundle,b8c9d0,27.00,2.97,24.03,0.00,USD,PO-G-09,sample

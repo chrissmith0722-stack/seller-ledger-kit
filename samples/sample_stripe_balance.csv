@@ -1,0 +1,13 @@
+id,Created (UTC),Amount,Fee,Net,Currency,Description,Type,Available On (UTC),Source,reporting_category
+txn_S1001,2026-01-10 14:22:00,450.00,13.35,436.65,usd,Invoice INV-2041 — Acme Design,charge,2026-01-12 00:00:00,ch_S1001,charge
+txn_S1002,2026-01-20 09:01:00,120.00,3.78,116.22,usd,Subscription — Starter Plan,charge,2026-01-22 00:00:00,ch_S1002,charge
+txn_S1003,2026-02-05 16:40:00,75.00,2.48,72.52,usd,Payment link — Discovery Call,charge,2026-02-07 00:00:00,ch_S1003,charge
+txn_S1004,2026-02-18 11:15:00,-45.00,0.00,-45.00,usd,REFUND Invoice INV-2030,refund,2026-02-18 11:15:00,re_S1004,refund
+txn_S1005,2026-03-08 13:00:00,890.00,26.01,863.99,usd,Invoice INV-2055 — Brand Sprint,charge,2026-03-10 00:00:00,ch_S1005,charge
+txn_S1006,2026-03-15 08:30:00,-2.50,0.00,-2.50,usd,Stripe Radar fee,stripe_fee,2026-03-15 08:30:00,fee_S1006,fee
+txn_S1007,2026-04-01 10:00:00,49.00,1.72,47.28,usd,Digital download — Fee Cheatsheet,charge,2026-04-03 00:00:00,ch_S1007,charge
+txn_S1008,2026-04-22 17:45:00,320.00,9.58,310.42,usd,Invoice INV-2060 — Retainer Apr,charge,2026-04-24 00:00:00,ch_S1008,charge
+txn_S1009,2026-05-11 12:12:00,-120.00,15.00,-135.00,usd,Chargeback Subscription — Starter Plan,adjustment,2026-05-11 12:12:00,du_S1009,dispute
+txn_S1010,2026-05-28 19:00:00,199.00,6.07,192.93,usd,Payment link — Audit Package,charge,2026-05-30 00:00:00,ch_S1010,charge
+txn_S1011,2026-06-14 15:20:00,640.00,18.86,621.14,usd,Invoice INV-2072 — Site Redesign 50%,charge,2026-06-16 00:00:00,ch_S1011,charge
+txn_S1012,2026-06-30 00:00:00,-2500.00,0.00,-2500.00,usd,PAYOUT to ****4242 (bank),payout,2026-06-30 00:00:00,po_S1012,payout

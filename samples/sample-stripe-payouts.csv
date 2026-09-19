@@ -1,0 +1,10 @@
+created_date,type,description,gross_usd,fee_usd,net_usd,refund_usd,currency,balance_transaction_id,payout_id,customer_id_hash,notes
+2026-07-05,charge,Invoice INV-2026-041 — Acme consult,1500.00,46.80,1453.20,0.00,USD,txn_7a01,po_jul,cust_aa,sample freelance
+2026-07-12,charge,Checkout — Rate Calculator,22.00,0.94,21.06,0.00,USD,txn_7a02,po_jul,cust_bb,sample
+2026-07-28,charge,Invoice INV-2026-044 — Brightleaf,800.00,26.20,773.80,0.00,USD,txn_7a03,po_jul,cust_cc,sample
+2026-08-04,charge,Subscription — Support retainer,200.00,6.10,193.90,0.00,USD,txn_8a01,po_aug,cust_dd,sample
+2026-08-18,charge,Invoice INV-2026-050 — Northpine,2880.00,86.82,2793.18,0.00,USD,txn_8a02,po_aug,cust_ee,sample
+2026-08-22,refund,Refund INV-2026-041 partial,0.00,0.00,-200.00,200.00,USD,txn_8a03,po_aug,cust_aa,partial refund sample
+2026-09-03,charge,Checkout — Tax Dashboard early,27.00,1.08,25.92,0.00,USD,txn_9a01,po_sep,cust_ff,sample
+2026-09-10,charge,Invoice INV-2026-055 — consulting,1200.00,37.80,1162.20,0.00,USD,txn_9a02,po_sep,cust_gg,sample
+2026-09-15,charge,Tip from client,50.00,1.75,48.25,0.00,USD,txn_9a03,po_sep,cust_ee,sample
