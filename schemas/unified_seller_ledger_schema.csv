@@ -1,3 +1,1 @@
-# Unified seller ledger (output of seller_ledger_pnl.py --write-ledger).
-# One row per normalized sale/payout line after fee allocation.
-ledger_id,source,source_txn_id,txn_date,product_or_desc,category,gross,platform_fee,processor_fee,refunds,chargebacks,tax_collected,net,currency,month,quarter,year
+date,platform,gross,fees,net,category,product_or_description,currency,source_id

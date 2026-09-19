@@ -1,7 +1,1 @@
-product_or_description_contains,category,notes
-Cashflow Kit,digital_product,Fictional example mapping
-Seller Ledger,digital_product,
-Consulting,freelance_invoice,
-Tip,tips,
-Subscription,subscriptions,
-,other,Fallback when no match
+product_or_description,category

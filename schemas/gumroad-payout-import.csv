@@ -1,1 +1,1 @@
-date,sale_id,product_name,buyer_email_hash,gross_usd,fee_usd,net_usd,refund_usd,currency,payout_id,notes
+date,amount,fee,net,product,currency
