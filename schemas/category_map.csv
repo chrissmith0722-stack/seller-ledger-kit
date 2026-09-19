@@ -1,0 +1,16 @@
+# Map product names / Stripe descriptions → seller categories.
+# pattern is case-insensitive substring match; first match wins.
+pattern,category,notes
+subscription,subscriptions,Recurring product or Stripe subscription invoice
+tip,tips,Buyers tipping creators
+invoice,freelance_invoices,Stripe invoice / client payment
+consult,freelance_invoices,Consulting / client work via Stripe
+course,digital_products,Courses / cohorts
+ebook,digital_products,Ebooks / PDFs
+template,digital_products,Notion/Sheets templates
+pack,digital_products,Template packs / kits
+refund,refunds_adjustments,Refund rows (usually auto-detected)
+chargeback,refunds_adjustments,Disputes / chargebacks
+payout,payouts,Stripe/Gumroad payout to bank (informational)
+fee,fees_only,Standalone fee rows
+*,other,Fallback catch-all — keep last

@@ -1,0 +1,4 @@
+# Stripe Balance Transactions / Payouts CSV schema (header row below).
+# Export: Stripe Dashboard → Balances → Balance transactions → Export, OR Payouts → CSV.
+# amount and fee are in major currency units (dollars), not cents, matching Stripe CSV exports.
+id,Created (UTC),Amount,Fee,Net,Currency,Description,Type,Available On (UTC),Source,reporting_category,customer_facing_amount,customer_facing_currency
