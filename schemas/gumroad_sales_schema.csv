@@ -1,1 +1,4 @@
-id,created_at,product_name,price_cents,fee_cents,tax_cents,refunded,buyer_email
+# Gumroad sales/payout CSV schema (import-ready header row below).
+# Export: Gumroad → Library / Analytics → Sales CSV (or Payouts export).
+# Date format: YYYY-MM-DD preferred; MM/DD/YYYY accepted by scripts.
+sale_id,sale_date,product_name,product_permalink,buyer_email,quantity,price_cents,gumroad_fee_cents,tax_cents,shipping_cents,amount_refunded_cents,net_cents,currency,sale_type,is_recurring,refunded,chargebacked,country,offer_code
